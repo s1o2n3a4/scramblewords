@@ -1,4 +1,4 @@
 # scramblewords
 basic scramble words using html , css, js
 
-https://swetatmkr.github.io/scramblewords/
+https://s1o2n3a4.github.io/scramblewords/
